@@ -1,0 +1,160 @@
+Mercedes-Benz
+B-Class
+Hatchback
+2010
+1.8
+A-95
+Automatic
+317 084 UAH
+Mercedes-Benz
+E-Class
+Sedan
+2008
+3.0
+A-95
+Automatic
+228 000 UAH 
+Lexus
+CT 200h
+Hatchback
+2011
+1.8
+A-95
+Automatic
+380 000 UAH
+Lexus
+PX 450 Hibra
+Hatchback
+2011
+3.5
+A-95
+Automatic
+611 000 UAH
+Aston Martin
+Rapide
+Sedan
+2013
+5.9
+A-95
+Automatic
+2 300 000 UAH
+Aston Martin
+Virage
+Cabriolet
+2013
+5.9
+A-95
+Automatic
+2 718 602 UAH              
+Dodge
+Viper
+Coupe
+2013
+8.4
+A-95
+Automatic
+1 304 096 UAH
+Dodge
+Viper
+Coupe
+2013
+8.4
+A-95
+Automatic
+1 304 096 UAH
+Ford
+Mustang
+Coupe
+2010
+5.0
+A-95
+Manual
+603 600 UAH
+Ford
+Taurus
+Sedan
+2013
+2.0
+A-95
+Manual
+390 000 UAH
+BMW
+650i
+Coupe
+2013
+4.4
+A-95
+Automatic
+1 030 000 UAH
+BMW
+550 xDrive
+Sedan
+2013
+4.4
+A-95
+Manual
+806 391 UAH
+Citroen
+C1
+Hatchback
+2008
+1.0
+A-95
+Manual
+84 000 UAH
+Citroen
+C6
+Sedan
+2008
+3.0
+A-95
+Automatic
+187 464 UAH
+Nissan
+xTrail
+Jeep
+2008
+2.5
+A-95
+Automatic
+211 916 UAH
+Nissan
+Tiida
+Hatchback
+2007
+1.6
+A-95
+Automatic
+95 916 UAH
+Toyota
+Avensis
+Sedan
+2006
+1.8
+A-95
+Ручна
+123 892 UAH
+Toyota
+Land Cruiser
+Jeep
+2013
+4.5
+A-95
+Automatic
+807 468 UAH
+ZAZ
+Forza
+Hatchback
+2010
+1.5
+A-95
+Manual
+85 700 UAH
+ZAZ
+Vida
+Sedan
+2012
+1.4
+A-92
+Manual
+88  468 UAH

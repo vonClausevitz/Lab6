@@ -1,0 +1,40 @@
+object Form2: TForm2
+  Left = 655
+  Height = 298
+  Top = 178
+  Width = 390
+  Caption = 'О программе'
+  ClientHeight = 298
+  ClientWidth = 390
+  LCLVersion = '1.0.8.0'
+  object Memo1: TMemo
+    Left = 0
+    Height = 256
+    Top = 0
+    Width = 392
+    Lines.Strings = (
+      '                         Вычисление функции'
+      '                                  Версия : 1.0'
+      ''
+      ' Лабораторна работа №4'
+      ' По предмету '
+      ' ТПСПП'
+      '                                  ФІТіК 321 (б) - 2013'
+      ' '
+      ' Разработал :            Иванова В.В.'
+      ' Преподаватель :     .'
+      ''
+    )
+    ReadOnly = True
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 112
+    Height = 49
+    Top = 254
+    Width = 184
+    Caption = 'ОК'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+end
